@@ -1,0 +1,12 @@
+//examples of programs
+https://gobyexample.com/
+
+spec for the language (probably wont understand)
+https://golang.org/ref/spec
+//https://golang.org/doc/effective_go.html
+
+// course utline and lots of other resources
+https://docs.google.com/document/d/18-0u5CvNIr83oOfMXPoM4klVFASXGl3Vvua1wBGMIoQ/edit
+
+
+golangplaygroung just to run your code online.
